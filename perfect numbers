@@ -20,3 +20,11 @@ main()
             printf("\t%d",j);
     }
 }
+
+Output:-
+Enter value of n: 1000
+
+Perfect numbers are:    6       28      496
+--------------------------------
+Process exited after 4.329 seconds with return value 0
+Press any key to continue . . .
